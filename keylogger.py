@@ -1,7 +1,7 @@
 """
 Simple Cross-Platform Keylogger for Educational Purposes
 This keylogger works on both Windows and Linux systems.
-For cybersecurity portfolio and educational use only.
+FOR EDUCATIONAL PURPOSES ONLY.
 """
 
 import platform
